@@ -1,185 +1,164 @@
- ❤️ Heart Disease Analysis Dashboard
+# ❤️ Heart Disease Analysis Dashboard
 
-<p align="center">
-  <img src=<img width="1062" height="596" alt="dashboard" src="https://github.com/user-attachments/assets/a393b0d6-2330-4ea3-992b-6de3cf9f05f6" />
- />
-" alt="Heart Disease Dashboard" width="900">
-</p>
+An interactive Power BI dashboard built to analyze heart disease data and identify patterns in patient health records.
 
-📌 Project Overview
+![Heart Disease Dashboard](Images/dashboard.png)
 
-The **Heart Disease Analysis Dashboard** is an interactive Power BI project designed to analyze patient health data and identify factors associated with heart disease. The dashboard transforms raw healthcare data into meaningful visual insights, enabling users to explore trends, compare patient characteristics, and support data-driven decision-making.
+---
 
-This project demonstrates the complete data analysis workflow, including data cleaning, transformation, modeling, DAX calculations, and dashboard development.
+## 📌 About the Project
 
- 🎯 Objectives
+This is one of my data analysis projects created using **Power BI**. The goal of this project was to analyze a heart disease dataset, clean the data, build meaningful visualizations, and create an interactive dashboard that helps understand the relationship between different health factors and heart disease.
 
-- Analyze patient demographics and medical conditions.
-- Identify factors contributing to heart disease.
-- Visualize trends using interactive dashboards.
-- Enable users to filter and explore data dynamically.
-- Demonstrate business intelligence skills using Power BI.
+Through this project, I practiced the complete Power BI workflow—from importing raw data to creating an interactive dashboard.
 
- 🛠 Tools & Technologies
+---
 
-| Tool | Purpose |
-| Power BI | Dashboard Development |
-| Power Query | Data Cleaning & Transformation |
-| DAX | Measures & Calculations |
-| Microsoft Excel | Data Inspection |
-| CSV Dataset | Data Source |
+## 🎯 Project Objectives
 
- 📂 Dataset Information
+- Analyze patient health data.
+- Identify trends related to heart disease.
+- Compare healthy and affected patients.
+- Create an interactive dashboard for easy data exploration.
+- Improve my Power BI and data visualization skills.
 
-**Dataset Name:** Heart Disease Prediction Dataset
+---
 
-The dataset contains patient health records, including:
+## 🛠️ Tools Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- CSV Dataset
+
+---
+
+## 📂 Dataset
+
+The dataset contains information about **270 patients** and includes features such as:
 
 - Age
 - Gender
-- Chest Pain Type
 - Blood Pressure
 - Cholesterol
-- Fasting Blood Sugar
-- Resting ECG
 - Maximum Heart Rate
-- Exercise-Induced Angina
-- ST Depression
-- Slope
-- Number of Major Vessels
-- Thalassemia
+- Chest Pain Type
+- Exercise Induced Angina
 - Heart Disease Status
 
 ---
 
- 📊 Dashboard Features
+## 📊 Dashboard Features
 
-KPI Cards
+The dashboard includes:
 
-- Total Patients
-- Heart Disease Cases
-- Healthy Patients
-- Average Age
-- Average Cholesterol
-- Average Maximum Heart Rate
+- ✅ Total Patients KPI
+- ✅ Disease Cases KPI
+- ✅ Healthy Patients KPI
+- ✅ Disease Percentage
+- ✅ Gender-wise Patient Distribution
+- ✅ Blood Pressure Analysis
+- ✅ Cholesterol vs Maximum Heart Rate
+- ✅ Chest Pain Analysis
+- ✅ Exercise Angina Analysis
+- ✅ Age Analysis
 
- Interactive Visualizations
+---
 
-- Heart Disease Distribution
-- Gender Analysis
-- Age Group Analysis
-- Chest Pain Type Analysis
-- Cholesterol Distribution
-- Blood Pressure Comparison
-- Heart Rate Analysis
-- Disease Prediction Overview
+## 📷 Dashboard Preview
 
- Filters
+![Dashboard Preview](Images/dashboard.png)
 
-- Gender
-- Age Group
-- Chest Pain Type
-- Heart Disease Status
+---
 
- 📸 Dashboard Preview
+## 📈 Key Insights
 
- Main Dashboard
+- Out of **270 patients**, **120** were diagnosed with heart disease.
+- Male patients have a higher number of heart disease cases than female patients.
+- Different chest pain types show varying levels of disease occurrence.
+- Patients with heart disease generally have different blood pressure and cholesterol patterns.
+- Interactive visuals make it easy to compare different patient groups.
 
-![Dashboard](<img width="1062" height="596" alt="dashboard" src="https://github.com/user-attachments/assets/10c6928d-0633-4f11-8e6e-07d2c8819a67" />
-/>
-)
+---
 
- 📈 Key Insights
+## 📁 Project Structure
 
-- Heart disease occurrence increases with age.
-- Certain chest pain types are more strongly associated with heart disease.
-- Patients with higher cholesterol levels tend to show increased disease prevalence.
-- Male patients exhibit a higher proportion of heart disease cases than female patients in the dataset.
-- Interactive filtering allows users to explore trends across different demographic groups.
-
-📁 Repository Structure
-
+```
 Heart-Disease-Analysis/
-│
-├── Dashboard/
-│   └── HEART DISEASE.pbit
 │
 ├── Data/
 │   └── Heart_Disease_Prediction.csv
+│
+├── Dashboard/
+│   └── HEART DISEASE.pbit
 │
 ├── Images/
 │   └── dashboard.png
 │
 ├── README.md
-├── LICENSE
-└── .gitignore
+└── LICENSE
 ```
 
 ---
 
-## ⚙️ How to Use
+## 🚀 How to Use
 
-1. Clone the repository
+1. Download or clone this repository.
 
 ```
-git clone https://github.com/YourUsername/Heart-Disease-Analysis.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/Heart-Disease-Analysis.git
 ```
 
-2. Open **HEART DISEASE.pbit** in Power BI Desktop.
+2. Open the Power BI template file.
 
-3. Load the dataset if prompted.
+3. Load the dataset if Power BI asks for the data source.
 
 4. Refresh the data.
 
-5. Explore the dashboard using slicers and filters.
+5. Explore the dashboard using the available visuals and filters.
 
- 📚 Skills Demonstrated
+---
+
+## 💡 What I Learned
+
+Working on this project helped me improve my understanding of:
 
 - Data Cleaning
-- Data Transformation
+- Power Query
 - Data Modeling
 - DAX Measures
-- Data Visualization
 - Dashboard Design
-- Business Intelligence
-- Analytical Thinking
-- Report Development
+- Data Visualization
+- Business Intelligence Concepts
 
+It also gave me hands-on experience in creating dashboards that are easy to understand and visually appealing.
 
-💡 Business Value
+---
 
-This dashboard helps healthcare professionals and analysts:
+## 🔮 Future Improvements
 
-- Monitor patient health trends
-- Identify high-risk patient groups
-- Compare demographic characteristics
-- Support preventive healthcare decisions
-- Improve data-driven reporting
+In the future, I plan to:
 
-🚀 Future Improvements
+- Add more advanced DAX measures.
+- Improve dashboard design.
+- Connect the dashboard to a SQL database.
+- Publish the report using Power BI Service.
+- Build a machine learning model to predict heart disease risk.
 
-- Add machine learning predictions.
-- Integrate real-time healthcare data.
-- Include patient risk scoring.
-- Add geographical analysis.
-- Connect with SQL database.
-- Publish dashboard to Power BI Service.
+---
 
-📄 License
+## 👩‍💻 About Me
 
-This project is licensed under the MIT License.
+Hi! I'm **Anchala kumari**, a BCA (AI) student and an aspiring **Data Analyst**.
 
-👩‍💻 Author
+I enjoy working with data and building dashboards that turn raw information into meaningful insights. I'm currently learning **Excel, SQL, Power BI, and Python** to prepare for a career in data analytics.
 
-Anchala Kumari
+### Connect with me
 
-BCA (Artificial Intelligence) Student
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+---
 
-GitHub:https://github.com/tanukashyap07
-
-LinkedIn:www.linkedin.com/in/anc12
-
-
-⭐ If you found this project helpful, consider giving it a star!
+⭐ If you like this project, feel free to give it a star!
