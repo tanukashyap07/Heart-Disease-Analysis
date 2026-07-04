@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built to analyze heart disease data and identify patterns in patient health records.
 
-![Heart Disease Dashboard](Images/dashboard.png)
+![Heart Disease Dashboard](https://github.com/tanukashyap07/Heart-Disease-Analysis/blob/main/dashboard.png)
 
 ---
 
@@ -68,7 +68,7 @@ The dashboard includes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](https://github.com/tanukashyap07/Heart-Disease-Analysis/blob/main/dashboard.png)
 
 ---
 
