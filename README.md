@@ -156,8 +156,8 @@ I enjoy working with data and building dashboards that turn raw information into
 
 ### Connect with me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- GitHub: https://github.com/tanukashyap07
+- LinkedIn: www.linkedin.com/in/anc12
 
 ---
 
