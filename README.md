@@ -1,7 +1,8 @@
  ❤️ Heart Disease Analysis Dashboard
 
 <p align="center">
-  <img src=<img width="1062" height="596" alt="Screenshot 2026-07-04 203729" src="https://github.com/user-attachments/assets/da6c1da4-8fe1-4a64-ac06-1f8d3c41b02e" />
+  <img src=<img width="1062" height="596" alt="dashboard" src="https://github.com/user-attachments/assets/a393b0d6-2330-4ea3-992b-6de3cf9f05f6" />
+ />
 " alt="Heart Disease Dashboard" width="900">
 </p>
 
@@ -84,7 +85,8 @@ KPI Cards
 
  Main Dashboard
 
-![Dashboard](<img width="1062" height="596" alt="Screenshot 2026-07-04 203729" src="https://github.com/user-attachments/assets/22b289f3-96dc-4609-bd59-a2230b74c890" />
+![Dashboard](<img width="1062" height="596" alt="dashboard" src="https://github.com/user-attachments/assets/10c6928d-0633-4f11-8e6e-07d2c8819a67" />
+/>
 )
 
  📈 Key Insights
